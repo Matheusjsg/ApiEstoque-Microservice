@@ -41,9 +41,3 @@ Utiliza **Spring Boot**, **Spring Data JPA** para persistência e **Flyway** par
 > Operações de movimentação podem ser adicionadas com rotas como:  
 > `POST /estoque/{id}/entrada` e `POST /estoque/{id}/saida`
 
----
-
-## 🧩 Flyway Migrations
-
-Scripts SQL localizados em:
-
